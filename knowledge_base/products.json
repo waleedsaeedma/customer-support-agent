@@ -1,0 +1,65 @@
+[
+  {
+    "id": "laptop-001",
+    "name": "Dell XPS 13",
+    "category": "laptop",
+    "price_eur": 1099,
+    "specs": {"cpu": "Intel Core i7", "ram_gb": 16, "storage_gb": 512, "screen_inch": 13.4},
+    "use_case": "lightweight, portable, everyday use and office work",
+    "stock": 12
+  },
+  {
+    "id": "laptop-002",
+    "name": "ASUS ROG Zephyrus G14",
+    "category": "laptop",
+    "price_eur": 1599,
+    "specs": {"cpu": "AMD Ryzen 9", "ram_gb": 32, "storage_gb": 1024, "gpu": "RTX 4060", "screen_inch": 14},
+    "use_case": "gaming and video editing",
+    "stock": 5
+  },
+  {
+    "id": "laptop-003",
+    "name": "MacBook Air M2",
+    "category": "laptop",
+    "price_eur": 1249,
+    "specs": {"cpu": "Apple M2", "ram_gb": 8, "storage_gb": 256, "screen_inch": 13.6},
+    "use_case": "lightweight, long battery life, students and creatives",
+    "stock": 20
+  },
+  {
+    "id": "laptop-004",
+    "name": "Lenovo ThinkPad E14 (Refurbished Grade A)",
+    "category": "laptop",
+    "price_eur": 549,
+    "specs": {"cpu": "Intel Core i5", "ram_gb": 8, "storage_gb": 256, "screen_inch": 14},
+    "use_case": "budget office work",
+    "stock": 8
+  },
+  {
+    "id": "phone-001",
+    "name": "iPhone 15",
+    "category": "phone",
+    "price_eur": 899,
+    "specs": {"storage_gb": 128, "screen_inch": 6.1, "camera_mp": 48},
+    "use_case": "everyday use, photography",
+    "stock": 30
+  },
+  {
+    "id": "phone-002",
+    "name": "Samsung Galaxy S24",
+    "category": "phone",
+    "price_eur": 849,
+    "specs": {"storage_gb": 256, "screen_inch": 6.2, "camera_mp": 50},
+    "use_case": "everyday use, Android, photography",
+    "stock": 18
+  },
+  {
+    "id": "phone-003",
+    "name": "Google Pixel 8a",
+    "category": "phone",
+    "price_eur": 549,
+    "specs": {"storage_gb": 128, "screen_inch": 6.1, "camera_mp": 64},
+    "use_case": "budget, clean Android, great camera",
+    "stock": 25
+  }
+]
