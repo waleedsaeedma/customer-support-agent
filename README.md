@@ -1,4 +1,4 @@
-# TechNL Customer Support Agent
+#Customer Support Agent
 
 A LangGraph-based customer support chatbot for a fictional Dutch electronics retailer (laptops and phones). It answers routine questions from real company documents, recommends products through a short clarifying conversation, and escalates refund requests or angry customers to a human rep for approval before continuing.
 
