@@ -1,4 +1,4 @@
-# TechNL Customer Support Agent
+# Customer Support Agent
 
 A LangGraph-based customer support chatbot for a fictional Dutch electronics retailer (laptops and phones). It answers routine questions from real company documents, recommends products through a short clarifying conversation, and escalates refund requests or angry customers to a human rep for approval before continuing.
 
@@ -113,8 +113,8 @@ This project uses:
 
 ## Setup
 
-    git clone <your-repo-url>
-    cd customer_support_agent
+    git clone https://github.com/waleedsaeedma/customer-support-agent.git
+    cd customer-support-agent
     python -m venv .venv
     .venv\Scripts\Activate.ps1        # Windows
     # source .venv/bin/activate       # macOS/Linux
